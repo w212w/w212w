@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edaev Bilal</h1>
-<h3 align="center">Software engineer, Golang developer. Master's degree at BMSTU</h3>
+# Hi 👋, I'm Edaev Bilal
+**align="center">Software engineer, Golang developer. Master's degree at BMSTU**
 
 ---
 
@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
@@ -29,6 +29,5 @@
 
 ### 📫 How to reach me:
 
-- Telegram: [@w212w](https://t.me/w212w)
-- Email: *(укажи, если хочешь)*
+- Telegram: [@wedvba](https://t.me/edvba)
 
