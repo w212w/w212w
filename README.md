@@ -1,6 +1,8 @@
 # Hi 👋, I'm Edaev Bilal
-**Software engineer, Golang developer**
-**Master's degree at BMSTU**
+
+- 💻 Software Engineer  
+- 🧠 Golang Developer  
+- 🎓 Master's degree at BMSTU
 
 ---
 
