@@ -3,6 +3,7 @@
 - 💻 Software Engineer  
 - 🧠 Golang Developer  
 - 🎓 Master's degree at BMSTU
+- 📫 Telegram: [@edvba](https://t.me/edvba)
 
 ---
 
@@ -27,6 +28,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w212w&layout=compact&theme=tokyonight&exclude_repo=DjangoPython)
 
 ---
-
-### 📫 Telegram: [@edvba](https://t.me/edvba)
 
