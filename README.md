@@ -1,5 +1,6 @@
 # Hi 👋, I'm Edaev Bilal
-**Software engineer, Golang developer. Master's degree at BMSTU**
+**Software engineer, Golang developer**
+**Master's degree at BMSTU**
 
 ---
 
@@ -22,7 +23,6 @@
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w212w&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=w212w&show_icons=true&theme=tokyonight)
 
 ---
 
