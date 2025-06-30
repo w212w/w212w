@@ -1,7 +1,7 @@
 # Hi 👋, I'm Edaev Bilal
 
-- 💻 Software Engineer  
-- 🧠 Golang Developer  
+- 🧠 Software Engineer  
+- 💻 Golang Developer  
 - 🎓 Master's degree at BMSTU
 - 📫 Telegram: [@edvba](https://t.me/edvba)
 
